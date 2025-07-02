@@ -3,7 +3,7 @@ import { TonConnect, WalletConnectionSource } from '@tonconnect/sdk';
 import { useEffect, useState } from 'react';
 
 const connector = new TonConnect({
-  manifestUrl: 'https://твой-юзернейм.github.io/my-app/tonconnect-manifest.json',
+  manifestUrl: 'https://hit.com',
 });
 
 function App() {
